@@ -2,7 +2,9 @@
 This is a demo for the Online Thinning algorithm with a parking lot surveillance video
 
 To run the demo on the original surveillance video, run Run_Demo.m
-To run the demo on the surveillance video with artificial jitters and stabilization, run Run_Demo_Stabilize_Jittered_Video.m
+To run the demo on the surveillance video with artificial jitters and stabilization, run Run_Demo_Stabilize_Jittered_Video.m 
+
+Note: in order to run the demo with jitters and stabilization, the Computer Vision System Toolbox (http://www.mathworks.com/help/vision/index.html) needs to be installed in MATLAB (R2013a or later). 
 
 The surveillance video is included in /demo_videos/
 
